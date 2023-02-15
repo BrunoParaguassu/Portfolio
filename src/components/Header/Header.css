@@ -1,0 +1,76 @@
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background-image: url("../../../public/img/Fundo.jpg");
+  }
+  
+  .navbar-nav{
+    column-gap: 100px;
+    margin-left: 200px;
+    font-size: 1.3rem;
+  }
+
+  .nav-link {
+    color: white;
+  }
+
+  .container-fluid {
+    background-image: url("../../../public/img/Fundo.jpg");
+    background-size: cover;
+  }
+  
+  .container-header{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0 auto;
+    color: rgba(243, 235, 235, 0.911);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+  }
+
+  .container-contatos {
+    padding-top: 100px;
+    color: rgba(243, 235, 235, 0.911);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+  }
+
+  .container-figure {
+    display: flex;
+    margin: 0 auto;
+  }
+  
+  .figure {
+    padding-top: 50px;
+    width: 70%;
+  }
+  
+  h1 {
+    color: rgb(243, 226, 226);
+  }
+  
+  .links-contatos {
+    display: flex;
+    width: 15rem;
+  }
+  
+  .img-redes {
+    width: 15%;
+  }
+  
+  .container {
+    color: rgb(243, 222, 222);
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  
+  h4 {
+    color: white;
+    margin-left: 50px;
+  }
