@@ -20,16 +20,41 @@ function Projetos() {
                 Express-Session, tudo isso sendo usado com a
                 metodologia agil Scrum e entregando sprints
                 semanais.
+                Segue link do repositório <a href="https://github.com/Pizza-Thru/Projeto-Integrador">https://github.com/Pizza-Thru/Projeto-Integrador</a>
               </p>
             </div>
             <div className="col">
               <div id="carousel1" className="carousel slide">
                 <div className="carousel-inner">
                   <div className="carousel-item active">
-                    <img src="../../../public/img/img2.jpg" width="500" height="400" alt="" />
+                    <img src="../../../public/img/projetoIntegrador1.jpg" width="700" height="400" alt="" />
                   </div>
                   <div className="carousel-item">
-                    <img src="../../../public/img/pexels-lukas-574069.webp" width="500" height="400" alt="" />
+                    <img src="../../../public/img/projetointegrador2.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador3.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador4.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador5.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador6.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador7.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador8.jpg" width="700" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador9.jpg" width="300" height="400" alt="" />
+                  </div>
+                  <div className="carousel-item">
+                    <img src="../../../public/img/projetointegrador10.jpg" width="300" height="400" alt="" />
                   </div>
                 </div>
                 <button className="carousel-control-prev" type="button" data-bs-target="#carousel1" data-bs-slide="prev">
@@ -89,6 +114,7 @@ function Projetos() {
                 continua de um site (Mini projeto Webpack e Sass)
                 feito um script configurando o CI/CD na branch
                 main, CI na develope e CI/CD na homolog.
+                Link do site <a href="https://projetoemwebpack.netlify.app/">https://projetoemwebpack.netlify.app/</a>
               </p>
             </div>
             <div className="col">
@@ -124,6 +150,7 @@ function Projetos() {
                 Projeto criado com modulos NPM, como o chalk usado para dar cores ao projeto, 
                 inquirer usado para fornecer a interface do usuário e o fluxo da sessão de consulta, 
                 nodemon para reiniciar automaticamente o aplicativo quando são detectadas alterações de arquivo no diretório. e Fs para acessar o sistema de arquivos.
+                Segue link do repositório <a href="https://github.com/BrunoParaguassu/ATM.Banco24Hrs">https://github.com/BrunoParaguassu/ATM.Banco24Hrs</a>
               </p>
             </div>
             <div className="col">

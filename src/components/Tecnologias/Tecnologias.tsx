@@ -50,6 +50,9 @@ function Tecnologias() {
                     <Col xs={6} md={4}>
                         <Image src="../../../public/img/git.png" alt="" className="logo" />
                     </Col>
+                    <Col xs={6} md={4}>
+                        <Image src="../../../public/img/bootstrap.png" alt="" className="logo" />
+                    </Col>
                 </Row>
             </Container>
         </>
